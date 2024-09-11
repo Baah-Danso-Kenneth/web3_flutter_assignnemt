@@ -1,0 +1,7 @@
+class SecretKey{
+  static const String walletAddress='addr_test1qzdr63y3u5pdlvtmh5eh6jpktgc2g3zwgvt7qlz9h35qhq43903l6e5qwrzp7sfccrerxs3wzqsplv3m73gpt4kdh77s3tj2qv';
+  static const String stakeAddress='stake_test1uzcjhclav6q8p3qlgyuvpu3ngghpqgqlkgalg5q46mxml0gmwnxjk';
+  static const String specificAssets='bb7f4364a3777f9cf178c545418725894dedc17f67f18de9bc8d8032466c756964202d2033303020';
+  static const String hashKey='b229f255f531fa588e395a4b6da9a89cfe73897756cb215c7c1fc0bb312605ab';
+  static const String blockFrostProjectId='preprode9HFwqelKnBE1k5mhYPO0L3m3czllQ5c';
+}
